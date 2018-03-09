@@ -6,6 +6,10 @@
 # dependencies
 /node_modules
 
+# vim
+*.swp
+*.swo
+
 # misc
 .env.local
 .env.development.local
